@@ -4,7 +4,7 @@ This project is an event-driven batch processing pipeline that consumes domain e
 
 Unlike pure real-time pipelines, this design leverages batch-timeout windows and multi-threading for efficient event handling, making it both scalable and fault-tolerant.
 
-### Key Strengths ###
+### Key Features ###
 
 * Multi-Threaded Architecture
 
