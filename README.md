@@ -38,11 +38,12 @@ S3-backed Delta tables for scalability.<br>
 Works seamlessly with Spark SQL, ML pipelines, and BI tools.<br>
 
 * Modular Codebase
-Separation of concerns:
-index.py – pipeline orchestration and main service loop.
-core/threading.py – event subscription, batching, and processing logic.
-core/schemas.py – Spark schema definitions for event data.
-core/consts.py – configuration constants (stream names, S3 paths, etc.).
+  
+Separation of concerns:<br>
+index.py – pipeline orchestration and main service loop.<br>
+core/threading.py – event subscription, batching, and processing logic.<br>
+core/schemas.py – Spark schema definitions for event data.<br>
+core/consts.py – configuration constants (stream names, S3 paths, etc.).<br>
 core/logger.py – structured logging setup.
 
 
