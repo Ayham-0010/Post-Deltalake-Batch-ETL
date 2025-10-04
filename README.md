@@ -74,7 +74,7 @@ Stored Delta tables will be queried with Spark SQL, the denormalization pipeline
 
 Python + PySpark<br>
 EventStoreDB<br>
-Delta Lakebr>
+Delta Lake<br>
 S3/Cloud Object Storage<br>
 
 
