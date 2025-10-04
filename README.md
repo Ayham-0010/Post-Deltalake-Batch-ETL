@@ -38,7 +38,8 @@ S3-backed Delta tables for scalability.<br>
 Works seamlessly with Spark SQL, ML pipelines, and BI tools.<br>
 
 * Logging
-  writing logs to provide visibility into processing and assist with troubleshooting.
+
+writing logs to provide visibility into processing and assist with troubleshooting.
 
 * Modular Codebase
   
