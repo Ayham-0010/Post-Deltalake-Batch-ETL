@@ -72,8 +72,9 @@ Stored Delta tables will be queried with Spark SQL, the denormalization pipeline
 
 ### Tech Stack ###
 
-Python + PySpark – batch ETL engine<br>
-EventStoreDB – source of truth for domain events<br>
-Delta Lake – ACID-compliant data lake storage<br>
-Threading – concurrency & batch synchronization<br>
-S3/Cloud Object Storage – durable and scalable table storage<br>
+Python + PySpark<br>
+EventStoreDB<br>
+Delta Lakebr>
+S3/Cloud Object Storage<br>
+
+
